@@ -49,7 +49,7 @@ def main():
 
     st.markdown("LinkedIn: www.linkedin.com/in/gabriel-machado-a47470181")  
     
-    st.markdown("Outros projetos no meu GitHub:https://www.google.com")        
+    st.markdown("Outros projetos no meu GitHub:https://github.com/2gabrielsynth")        
           
 
 if __name__ == "__main__":
