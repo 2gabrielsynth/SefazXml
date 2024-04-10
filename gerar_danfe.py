@@ -30,7 +30,7 @@ def main():
     with col1:
         st.write('Gabriel Machado')
     with col2:
-        st.image("Imgs//nf.png", width=500, )
+        st.image("nf.png", width=500, )
     with col3:
         st.write('')
 
